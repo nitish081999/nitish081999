@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nitish Kumar
 - 👀 I’m interested in Data Structure,Algorithms,AI/Ml,Deep Learning,Tensorflow,Gen AI
-- 🌱 I’m currently WebDevelopment
+- 🌱 I’m working on AI/ML projects and part time webDeveloper
 - 📫 How to reach me linkedin.com/in/nitishpawar/
 
 <!---
